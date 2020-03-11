@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# .my ignore
+*.exe 
+*.o
+*.jar
+libraries/
+
